@@ -1,6 +1,0 @@
-
-streamlit>=1.30
-python-dotenv>=1.0.0
-assemblyai>=0.33.0
-google-generativeai>=0.8.0
-
